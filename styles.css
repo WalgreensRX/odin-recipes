@@ -1,0 +1,17 @@
+.backgroundcolor {
+    background-color: rgb(25, 29, 40);
+}
+
+.headercolor {
+    background-color: rgb(23, 54, 80);
+    color: violet;
+    font-family: Helvetica, "Times New Roman", serif;
+    padding-left: 10px;
+}
+
+.links { 
+    color: violet; 
+    background-color: rgb(23, 54, 80);
+    font-family: Verdana, Tahoma, sans-serif; 
+    padding: 10px;
+}
